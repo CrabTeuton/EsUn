@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869205626572",
+    "project_id": "appesun-1e116",
+    "storage_bucket": "appesun-1e116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869205626572:android:491eac19840caef48dbc69",
+        "android_client_info": {
+          "package_name": "com.example.app_esun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeEz-LzB-sRfGsVL9XtP-xWS9R4GCwM_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
