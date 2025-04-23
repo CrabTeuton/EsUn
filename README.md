@@ -46,15 +46,17 @@ Pantalla Principal
 Home screen con paleta de colores exclusiva
 
 ## 📸 Capturas de Pantalla
-![Home](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png)
 
-![Register](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Register.png)
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png" width="50%" />
 
-![Login](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Login.png)
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Register.png" width="50%" />
 
-![Main](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Main.png)
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Login.png" width="50%" />
 
-![User](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/User.png)
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Main.png" width="50%" />
+
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/User.png" width="50%" />
+
 
 
 ## 🔧 Tecnologías Utilizadas
