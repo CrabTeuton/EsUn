@@ -47,15 +47,15 @@ Home screen con paleta de colores exclusiva
 
 ## 📸 Capturas de Pantalla
 
-<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png" width="50%" />
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png" width="40%" />
 
-<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Register.png" width="50%" />
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Register.png" width="40%" />
 
-<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Login.png" width="50%" />
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Login.png" width="40%" />
 
-<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Main.png" width="50%" />
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Main.png" width="40%" />
 
-<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/User.png" width="50%" />
+<img src="https://github.com/CrabTeuton/EsUn/blob/main/screenshots/User.png" width="40%" />
 
 
 
