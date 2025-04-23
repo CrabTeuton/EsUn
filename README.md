@@ -47,7 +47,7 @@ Pantalla Principal
 Home screen con paleta de colores exclusiva
 
 📸 Capturas de Pantalla
-![Home](https://github.com/CrabTeuton/EsUn/tree/main/screenshots/Home.png)
+![Home](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png)
 ![Register](https://github.com/CrabTeuton/EsUn/tree/main/screenshots/Register.png)
 ![Login](https://github.com/CrabTeuton/EsUn/tree/main/screenshots/Login.png)
 ![Main](https://github.com/CrabTeuton/EsUn/tree/main/screenshots/Main.png)
