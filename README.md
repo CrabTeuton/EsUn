@@ -48,9 +48,13 @@ Home screen con paleta de colores exclusiva
 
 📸 Capturas de Pantalla
 ![Home](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png)
+
 ![Register](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Register.png)
+
 ![Login](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Login.png)
+
 ![Main](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Main.png)
+
 ![User](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/User.png)
 
 
