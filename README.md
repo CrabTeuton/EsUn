@@ -1,25 +1,24 @@
-📱 EsUn - Aprende a Programar
+#📱 EsUn - Aprende a Programar
 Aplicación móvil educativa diseñada para hacer el aprendizaje de programación accesible e interactivo
 
-🎨 Diseño Personalizado
-Identidad visual única:
+##🎨 Diseño Personalizado
 
-Todos los logos y elementos gráficos fueron diseñados personalmente por mí
+-Todos los logos y elementos gráficos fueron diseñados personalmente por mí
 
-Paleta de colores cuidadosamente seleccionada para una experiencia visual óptima
+-Paleta de colores cuidadosamente seleccionada para una experiencia visual óptima
 
-Diseño de interfaz centrado en la usabilidad y accesibilidad
+-Diseño de interfaz centrado en la usabilidad y accesibilidad
 
-🎯 Objetivo del Proyecto
-EsUn busca transformar la manera en que los principiantes aprenden programación, ofreciendo:
+##🎯 Objetivo del Proyecto
+-EsUn busca transformar la manera en que los principiantes aprenden programación, ofreciendo:
 
-Lecciones estructuradas desde cero
+-Lecciones estructuradas desde cero
 
-Ejercicios prácticos inmediatos
+-Ejercicios prácticos inmediatos
 
-Retroalimentación en tiempo real
+-Retroalimentación en tiempo real
 
-🚀 Estado Actual (Versión Alpha)
+##🚀 Estado Actual (Versión Alpha)
 Funcionalidades Implementadas
 Sistema de autenticación completo:
 
@@ -39,14 +38,14 @@ Animaciones personalizadas
 
 Estructura preparada para los módulos de aprendizaje
 
-🔍 Vista Previa
+##🔍 Vista Previa
 Pantalla de Registro
 Interfaz de registro con diseño personalizado
 
 Pantalla Principal
 Home screen con paleta de colores exclusiva
 
-📸 Capturas de Pantalla
+##📸 Capturas de Pantalla
 ![Home](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Home.png)
 
 ![Register](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/Register.png)
@@ -58,7 +57,7 @@ Home screen con paleta de colores exclusiva
 ![User](https://github.com/CrabTeuton/EsUn/blob/main/screenshots/User.png)
 
 
-🔧 Tecnologías Utilizadas
+##🔧 Tecnologías Utilizadas
 Frontend (Android)
 Kotlin (100% nativo)
 
@@ -89,7 +88,7 @@ Instalación:
 bash
 git clone https://github.com/CrabTeuton/EsUn.git
 cd EsUn && ./gradlew build
-🌟 Próximas Funcionalidades
+##🌟 Próximas Funcionalidades
 Editor de código interactivo
 
 Cursos de Kotlin y Python
@@ -98,7 +97,7 @@ Sistema de logros con badges
 
 Modo oscuro/claro personalizable
 
-📜 Derechos de Autor
+##📜 Derechos de Autor
 Todos los elementos visuales incluyendo:
 
 Logotipo
