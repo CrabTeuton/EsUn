@@ -1,0 +1,19 @@
+# Archivos generados por Android Studio
+.idea/
+.gradle/
+build/
+screenshot/
+*.iml
+local.properties
+
+# Archivos generados por Gradle
+/gradle/wrapper/gradle-wrapper.properties
+
+# Archivos de desarrollo
+*.keystore
+*.jks
+
+# Archivos temporales
+*.swp
+*.swo
+*.log

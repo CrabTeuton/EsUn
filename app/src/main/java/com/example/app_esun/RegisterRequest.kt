@@ -2,6 +2,7 @@ package com.example.app_esun
 
 import com.android.volley.Response
 import com.android.volley.toolbox.StringRequest
+import java.util.HashMap
 
 class RegisterRequest(
     name: String,
@@ -11,23 +12,19 @@ class RegisterRequest(
     errorListener: Response.ErrorListener
 ) : StringRequest(
     Method.POST,
-    "http://192.168.3.63/Register.php",
+    "http://localhost/app_esun/Register.php",
     listener,
     errorListener
 ) {
-    private var nameValue = name
-    private var emailValue = email
-    private var passwordValue = password
+    private val params: Map<String, String>
 
-    override fun getParams(): Map<String, String> {
-        val params: MutableMap<String, String> = HashMap()
-        params["name"] = nameValue
-        params["email"] = emailValue
-        params["password"] = passwordValue
-        return params
+    init {
+        params = HashMap<String, String>().apply {
+            put("name", name)
+            put("email", email)
+            put("password", password)
+        }
     }
 
-    override fun getBodyContentType(): String {
-        return "application/x-www-form-urlencoded; charset=UTF-8"
-    }
+    override fun getParams(): Map<String, String> = params
 }
